@@ -1,0 +1,209 @@
+Recon Report for: google.com
+Generated on: 2025-06-09 03:13:15.770827
+
+[WHOIS Lookup]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d771d7805a
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2023-12-07
+source:       IANA
+
+
+
+[DNS Enumeration]
+A Records: ['142.250.181.110']
+AAAA Records: ['2a00:1450:4019:80c::200e']
+NS Records: ['ns4.google.com.', 'ns1.google.com.', 'ns3.google.com.', 'ns2.google.com.']
+CNAME Records: ['No Answer']
+MX Records: ['10 smtp.google.com.']
+PTR Records: ['No Answer']
+TXT Records: ['"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"', '"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e"', '"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB"', '"cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b"', '"onetrust-domain-verification=de01ed21f2fa4d8781cbc3ffb89cf4ef"', '"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"', '"apple-domain-verification=30afIBcvSuDV2PLX"', '"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ"', '"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="', '"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o"', '"v=spf1 include:_spf.google.com ~all"', '"google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0"']
+
+[Subdomain Enumeration]
+www.google.com
+mail.google.com
+smtp.google.com
+ns1.google.com
+ns2.google.com
+m.google.com
+ns.google.com
+blog.google.com
+news.google.com
+vpn.google.com
+ns3.google.com
+support.google.com
+mobile.google.com
+docs.google.com
+shop.google.com
+calendar.google.com
+web.google.com
+email.google.com
+images.google.com
+video.google.com
+api.google.com
+ns4.google.com
+dns.google.com
+search.google.com
+chat.google.com
+wap.google.com
+sites.google.com
+ads.google.com
+apps.google.com
+download.google.com
+store.google.com
+files.google.com
+sms.google.com
+ipv4.google.com
+help.google.com
+home.google.com
+www4.google.com
+ldap.google.com
+tv.google.com
+upload.google.com
+survey.google.com
+jobs.google.com
+services.google.com
+cloud.google.com
+gmail.google.com
+ww.google.com
+image.google.com
+meet.google.com
+photo.google.com
+time.google.com
+www5.google.com
+feeds.google.com
+w.google.com
+games.google.com
+dl.google.com
+archive.google.com
+tools.google.com
+billing.google.com
+sandbox.google.com
+events.google.com
+videos.google.com
+music.google.com
+partners.google.com
+downloads.google.com
+local.google.com
+edu.google.com
+catalog.google.com
+pay.google.com
+photos.google.com
+www6.google.com
+doc.google.com
+travel.google.com
+design.google.com
+map.google.com
+business.google.com
+maps.google.com
+domains.google.com
+groups.google.com
+research.google.com
+careers.google.com
+d.google.com
+foto.google.com
+directory.google.com
+finance.google.com
+corp.google.com
+wifi.google.com
+id.google.com
+shopping.google.com
+analytics.google.com
+forms.google.com
+health.google.com
+work.google.com
+mars.google.com
+labs.google.com
+lp.google.com
+education.google.com
+code.google.com
+movie.google.com
+developer.google.com
+books.google.com
+hotels.google.com
+orion.google.com
+mt.google.com
+security.google.com
+podcast.google.com
+account.google.com
+contacts.google.com
+1.google.com
+sb.google.com
+ap.google.com
+www9.google.com
+food.google.com
+surveys.google.com
+movies.google.com
+base.google.com
+payments.google.com
+www10.google.com
+print.google.com
+profile.google.com
+drive.google.com
+dir.google.com
+play.google.com
+plus.google.com
+history.google.com
+accounts.google.com
+gw2.google.com
+wave.google.com
+gw1.google.com
+sky.google.com
+learning.google.com
+group.google.com
+one.google.com
+
+[Banners]
+
+
